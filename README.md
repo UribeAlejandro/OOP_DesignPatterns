@@ -11,3 +11,4 @@ Design patterns are solutions to software design problems you find again and aga
 Structural patterns are concerned with object composition and typically identify simple ways to realize relationships between different objects. They help ensure that if one part of a system changes, the entire system doesn't need to do the same.
 
 - [Adapter](src/structural/adapter/README.md): Allows objects with incompatible interfaces to collaborate.
+- [Decorator](src/structural/decorator/README.md): Dynamically adds behaviors and responsibilities to objects without modifying the original class.
