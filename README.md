@@ -12,3 +12,4 @@ Structural patterns are concerned with object composition and typically identify
 
 - [Adapter](src/structural/adapter/README.md): Allows objects with incompatible interfaces to collaborate.
 - [Decorator](src/structural/decorator/README.md): Dynamically adds behaviors and responsibilities to objects without modifying the original class.
+- [Observer](src/behavioral/observer/README.md): Defines a dependency between objects so that whenever an object changes its state, all its dependents are notified.
